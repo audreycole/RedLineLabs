@@ -1,0 +1,32 @@
+body { 
+	background-color: #F3E2A9;
+}
+
+#login_wrapper {
+	position: relative;
+	height: 400px;
+}
+
+#screenshot_left {
+	float: left;
+}
+
+#container_login {
+	position: absolute;
+	top: 0px;
+	left: 200px;
+	float: left;
+}
+
+#content_login {
+	padding: 15px 30px 15px 30px;
+	margin: auto;
+	text-align: center;
+	background-color: #FFBF00;
+	border: 2px solid black;
+	border-radius: 15px;
+}
+
+#wm_promise {
+	font-size: 10px;
+}
